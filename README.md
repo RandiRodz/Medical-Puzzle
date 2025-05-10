@@ -1,1 +1,17 @@
-Medical Crossword project is a software application that aims to be easy access through the web to hone your memorization of medical terminology by playing and solving crosswords with medical terminology definition to solve with its corresponding word. This HTML5 puzzle game / web app is designed to be viewed from mobile devices, so you can see a navigation drawer that can be opened by tapping on the hamburger button. Open the navigation drawer to choose between 3 words or 5 words. To fill the crossword, I know it's a little bit strange, that you must click any box to show a virtual keyboard, then you can tap any of the letters of your choice. Let's start on how to navigate Medical Crossword website
+## Medical Puzzle Website
+
+This is a modified version of an open-source HTML5 crossword game designed for medical students and professionals to enhance their terminology knowledge interactively.
+
+### Features
+- 3-word and 5-word medical crossword puzzles
+- Virtual keyboard interaction
+- Responsive mobile-friendly UI
+- Admin-editable word and clue list (via `ttss.js`)
+
+Developed Jan 2024 – May 2024  
+By Randy Rodriguez and Syeda Mahmood
+
+### Credits
+This project is based on the open-source HTML5 Crossword Game template by [dwmkerr](https://github.com/dwmkerr/crosswords-js).  
+Modified and enhanced to support medical terminology learning use cases.
+
